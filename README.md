@@ -1,4 +1,5 @@
 # JsAndJavaDemo
+js
 java和js的互相调用
   
   这个小demo主要包括四个功能
@@ -10,3 +11,9 @@ java和js的互相调用
   jsTojava：html发起请求，调用java，最终显示在Android上。（在html上的按钮）
   
   jsTojavaTojs：html发起请求，调用java，java中调用js，最终显示在html中（在html上的按钮）
+
+web这个程序
+    1.webview加载进度条
+    2.webview加载出错重新加载
+
+
