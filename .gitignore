@@ -11,3 +11,5 @@
 local.properties
 build
 app
+
+*.apk

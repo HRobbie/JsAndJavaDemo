@@ -1,2 +1,1 @@
-include ':app', ':js'
-include ':webview'
+include ':js', ':web'
